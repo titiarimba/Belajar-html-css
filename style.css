@@ -1,0 +1,43 @@
+body {
+    background: #ededed;
+}
+.header{
+    background: #fad2dc;
+    margin: 10 0 0;
+    padding: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.sidebar{
+    background: #ededed;
+    float: right;
+    width: 27%;
+}
+.widget{
+    background: #d2d7fc;
+    margin-right: 20px;
+    margin-left: 10px;
+    height: 100px;
+}
+.widget2{
+    background: #cffaed;
+    margin-left: 10px;
+    margin-right: 20px;
+    height: 75px;
+    margin-top: 5px;
+}
+.content{
+    background: #faf8c1;
+    width: 70%;
+    height: 300px; 
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.footer{
+    background: #d3bdf6;
+    width:auto;
+    height: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
